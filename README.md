@@ -4,10 +4,10 @@
 <p>🌱 Estutando python</p>
 <p>📫 Contato: viniciusgrn6@gmail.com</p>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg)">
+  <img align="center" alt="Vinicius-HTML" height="30" width="40" src="https://github.com/Viniciusgrn/Viniciusgrn/blob/main/icons/html.svg">
+  <img align="center" alt="Vinicius-CSS" height="30" width="40" src="https://github.com/Viniciusgrn/Viniciusgrn/blob/main/icons/css.svg">
+ <img align="center" alt="Vinicius-Js" height="30" width="40" src="https://github.com/Viniciusgrn/Viniciusgrn/blob/main/icons/MySQL-Dark.svg">
+  <img align="center" alt="Vinicius-Python" height="30" width="40" src="https://github.com/Viniciusgrn/Viniciusgrn/blob/main/icons/MySQL-Dark.svg">
 </div>
 <!--
 **Viniciusgrn/Viniciusgrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
