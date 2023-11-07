@@ -1,4 +1,4 @@
- Me chamo Vinícius Godoy, trabalho atualmente desenvolvendo back-end em Django(Python)
+<h3> <b>Me chamo Vinícius Godoy, trabalho atualmente desenvolvendo back-end em Django(Python)</b></h3>
 <hr>
 <p> Atualmente estagiando com back-end</p>
 <p> Estutando python</p>
