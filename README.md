@@ -1,7 +1,7 @@
 <h3> <b>Me chamo Vinícius Godoy, trabalho atualmente desenvolvendo back-end em Django(Python)</b></h3>
 <hr>
 <p> Atualmente estagiando com back-end</p>
-<p> Estutando python</p>
+<p> Estudando python</p>
 
 <div align="center"> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusgrn&layout=compact&hide_border=false&title_color=3EBDFF&custom_title=Linguagens%20Mais%20Usadas&text_color=fff&bg_color=0d1117" />
